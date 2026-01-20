@@ -16,4 +16,12 @@ This repository is created to track my daily learning progress and practice in w
 
 ## Current Focus
 Learning step by step and building good habits through daily practice.
-Update daily progress
+Update ## 📅 Daily Progress
+
+### Day 2
+- Revised basic HTML structure
+- Practiced simple CSS styling
+- Updated GitHub repository
+
+### 🎯 Next Goal
+- Improve layout and responsiveness
