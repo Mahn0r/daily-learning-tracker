@@ -16,3 +16,4 @@ This repository is created to track my daily learning progress and practice in w
 
 ## Current Focus
 Learning step by step and building good habits through daily practice.
+Update daily progress
